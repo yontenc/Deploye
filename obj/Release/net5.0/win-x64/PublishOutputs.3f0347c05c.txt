@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\DeployProject\DeployProject\obj\Release\net5.0\win-x64\PubTmp\Out\DeployProject.exe
+C:\Users\USER\source\repos\DeployProject\DeployProject\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\USER\source\repos\DeployProject\DeployProject\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\USER\source\repos\DeployProject\DeployProject\obj\Release\net5.0\win-x64\PubTmp\Out\DeployProject.dll
+C:\Users\USER\source\repos\DeployProject\DeployProject\obj\Release\net5.0\win-x64\PubTmp\Out\DeployProject.deps.json
+C:\Users\USER\source\repos\DeployProject\DeployProject\obj\Release\net5.0\win-x64\PubTmp\Out\DeployProject.runtimeconfig.json
+C:\Users\USER\source\repos\DeployProject\DeployProject\obj\Release\net5.0\win-x64\PubTmp\Out\DeployProject.pdb
+C:\Users\USER\source\repos\DeployProject\DeployProject\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\USER\source\repos\DeployProject\DeployProject\obj\Release\net5.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\source\repos\DeployProject\DeployProject\obj\Release\net5.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\source\repos\DeployProject\DeployProject\obj\Release\net5.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
